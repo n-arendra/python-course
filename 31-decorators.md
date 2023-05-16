@@ -270,5 +270,3 @@ Decorators are wonderful
 As you can see, these decorators are chained and they wrap the original function.
 
 Here, we have first called the `star` function, and then the `percent` function. So the `star` function wraps the `percent` function which in turn wraps the `printer` function.
-
-Hello from Narendra (DevOps engineer)
